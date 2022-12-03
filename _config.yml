@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yile (Michael) Gu"
-  avatar           : "bio-photo-3.jpg"
+  avatar           : "yilegu.jpg"
   bio              : "A second year CSE Master student at the University of Michigan"
   location         : "Ann Arbor"
   employer         :
@@ -181,12 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
