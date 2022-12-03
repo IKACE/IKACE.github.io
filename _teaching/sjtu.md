@@ -4,7 +4,7 @@ collection: teaching
 type: "Writing"
 permalink: /teaching/sjtu
 venue: "Shanghai Jiao Tong University, UM-SJTU Joint Institute"
-date: "Winter 2019, Summer 2019"
+time: "Winter 2019, Summer 2019"
 location: "Shanghai, China"
 ---
 
