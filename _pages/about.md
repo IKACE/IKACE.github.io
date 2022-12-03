@@ -16,6 +16,8 @@ You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_11_30.pdf
 
 
 ## Education 
-MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023(expected)</span> \
+MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023 (expected)</span> \
 BSE in Computer Science, <span style="color:grey">University of Michigan, 2019-2021</span> \
 BE in Electrical and Computer Engineering, <span style="color:grey">Shanghai Jiao Tong University, 2017-2021</span>
+
+<a href="https://clustrmaps.com/site/1brpe"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1_9c8WzY31zgcTy8hYMNkxtZOoxUVn9ZbSMI1I9qDaI&cl=ffffff" /></a>
