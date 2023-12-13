@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I am a second year master student at the University of Michigan, majoring in Computer Science and Engineering. 
+Hey there! I am a Ph.D. student at the University of Washington, advised by [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/). 
 
-My research interests broadly lie in systems for ML and debugging and testing of software systems. I am fortunate to work with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/) and [Prof. Baris Kasikci](https://web.eecs.umich.edu/~barisk/). I've built debugging tools that help improve the reliability of software systems operating on emerging hardwares.  I am also one of the key contributors of [FedScale](https://github.com/SymbioticLab/FedScale), currently building a deployment platform for federated learning. My recent interest focuses on developing privacy-enhancing solutions for federated learning.
+My research interests broadly lie in systems for ML and systems reliability. I've worked on energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems operating on emerging hardwares. I was fortunate to work with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). I am one of the key contributors of [FedScale](https://github.com/SymbioticLab/FedScale).
 
-You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_12_15.pdf).
+You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_5.24.pdf).
 
 
 ## Education 
-MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023 (expected)</span> \
+Ph.D. in Computer Science and Engineering, <span style="color:grey">University of Washington, 2023-Present </span>
+MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023 </span> \
 BSE in Computer Science, <span style="color:grey">University of Michigan, 2019-2021</span> \
 BE in Electrical and Computer Engineering, <span style="color:grey">Shanghai Jiao Tong University, 2017-2021</span>
 
