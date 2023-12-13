@@ -16,7 +16,7 @@ You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_5.24.pdf)
 
 
 ## Education 
-Ph.D. in Computer Science and Engineering, <span style="color:grey">University of Washington, 2023-Present </span>
+Ph.D. in Computer Science and Engineering, <span style="color:grey">University of Washington, 2023-Present </span> \
 MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023 </span> \
 BSE in Computer Science, <span style="color:grey">University of Michigan, 2019-2021</span> \
 BE in Electrical and Computer Engineering, <span style="color:grey">Shanghai Jiao Tong University, 2017-2021</span>
