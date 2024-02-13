@@ -12,7 +12,7 @@ Hey there! I am a Ph.D. student at the University of Washington, advised by [Pro
 
 My research interests broadly lie in systems for ML and systems reliability. I've worked on energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems operating on emerging hardwares. I was fortunate to work with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). I am one of the key contributors of [FedScale](https://github.com/SymbioticLab/FedScale).
 
-You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2023.pdf).
+You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2024.pdf).
 
 
 ## Education 
