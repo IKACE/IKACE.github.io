@@ -14,6 +14,12 @@ author_profile: true
   </li>
 
   <li>
+  <b>Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models</b> <br>
+  Keisuke Kamahori, <b> Yile Gu </b>, Kan Zhu, Baris Kasikci <br>
+  Under submission. <a href="https://arxiv.org/abs/2402.07033">https://arxiv.org/abs/2402.07033</a> <br>
+  </li>
+
+  <li>
   <b>Perseus: Removing Energy Bloat from Large Model Training</b> <br>
   Jae-Won Chung, <b> Yile Gu </b>, Insu Jang, Luoxi Meng, Nikhil Bansal, Mosharaf Chowdhury <br>
   Under submission. <a href="https://arxiv.org/abs/2312.06902">https://arxiv.org/abs/2312.06902</a> <br>
