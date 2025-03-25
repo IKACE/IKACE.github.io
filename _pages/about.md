@@ -10,9 +10,9 @@ redirect_from:
 
 Hey there! I am a Ph.D. student at the University of Washington, advised by [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/). 
 
-My research interests broadly lie in systems for ML and systems reliability. I've worked on energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems operating on emerging hardwares. I was fortunate to work with [Prof. Mosharaf Chowdhury](https://www.mosharaf.com/). I am one of the key contributors of [FedScale](https://github.com/SymbioticLab/FedScale).
+My research interests broadly lie in machine learning systems and systems reliability. I've worked on efficient LLM serving and energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems on data persistency specifically. More recently, I have been working on how to integrate LLMs into the incident management lifecyle effectively for cloud systems.
 
-You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2024.pdf).
+You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2025.pdf).
 
 
 ## Education 
