@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Peer-reviewed Publications
 
 <ul>
   <li>
@@ -36,6 +37,8 @@ author_profile: true
   Jae-Won Chung, <b> Yile Gu</b>, Insu Jang, Luoxi Meng, Nikhil Bansal, Mosharaf Chowdhury. <br>
   SOSP 2024, Austin, TX, USA, November 2024. <a href="https://arxiv.org/abs/2312.06902">https://arxiv.org/abs/2312.06902</a> <br>
   </li>
+
+## Preprints
 
   <li>
   <b>ConsumerBench: Benchmarking Generative AI Applications on End-User Devices</b> <br>
