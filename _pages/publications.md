@@ -38,7 +38,10 @@ author_profile: true
   SOSP 2024, Austin, TX, USA, November 2024. <a href="https://arxiv.org/abs/2312.06902">https://arxiv.org/abs/2312.06902</a> <br>
   </li>
 
+</ul>
+
 ## Preprints
+<ul>
 
   <li>
   <b>ConsumerBench: Benchmarking Generative AI Applications on End-User Devices</b> <br>
