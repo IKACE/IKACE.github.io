@@ -3,7 +3,8 @@ company: "ByteDance Ltd"
 collection: work
 type: "Middle Platform Group"
 permalink: /work/bytedance
-time: "2020.5-2020.8"
+start_date: 2020-05
+end_date: 2020-08
 location: "Shanghai, China"
 ---
 

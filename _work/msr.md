@@ -3,7 +3,8 @@ company: "Microsoft Research"
 collection: work
 type: "Cloud System Reliability"
 permalink: /work/msr
-time: "2024.6-2024.9"
+start_date: 2024-06
+end_date: 2024-09
 location: "Redmond, WA"
 ---
 
