@@ -12,7 +12,7 @@ Hey there! I am a Ph.D. student at the University of Washington, advised by [Pro
 
 My research interests broadly lie in machine learning systems and systems reliability. I've worked on efficient LLM serving and energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems on data persistency specifically. More recently, I have been working on how to integrate LLMs into the incident management lifecyle effectively for cloud systems.
 
-You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2025.pdf).
+You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2026.2.pdf).
 
 
 ## Education 

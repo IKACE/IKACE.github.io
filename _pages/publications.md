@@ -8,16 +8,36 @@ author_profile: true
 ## Peer-reviewed Publications
 
 <ul>
+
+  <li>
+  <b> SchedFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling. </b> <br>
+  Yi Pan, <b> Yile Gu</b>, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, Baris Kasikci, Stephanie Wang. <br>
+  (To Appear) MLSys 2026, Bellevue, WA, USA, May 2026. <br>
+  </li>
+
+
+  <li>
+  <b>RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval.</b> <br>
+  Chien-Yu Lin<sup>*</sup>, Keisuke Kamahori<sup>*</sup>, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, <b> Yile Gu</b>, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Rohan Kadekodi, Luis Ceze, Baris Kasikci.  <br>
+  (To Appear) MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://arxiv.org/abs/2502.20969">https://arxiv.org/abs/2502.20969</a> <br>
+  </li>
+
+  <li>
+  <b>Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs</b> <br>
+  Kan Zhu<sup>*</sup>, Tian Tang<sup>*</sup>, Qinyu Xu<sup>*</sup>, <b> Yile Gu</b>, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, Baris Kasikci.  <br>
+  (To Appear) ICLR 2026,  Rio de Janeiro, Brazil, April 2026. <a href="https://arxiv.org/abs/2502.12216">https://arxiv.org/abs/2502.12216</a> <br>
+  </li>
+
   <li>
   <b>Mitigating Application Resource Overload with Targeted Task Cancellation</b> <br>
   Yigong Hu, Zeyin Zhang, Yicheng Liu,<b> Yile Gu </b>, Shuangyu Lei, Baris Kasikci, Peng Huang. <br>
-  (To Appear) SOSP 2025, Seoul, Republic of Korea, November 2025. <br>
+  SOSP 2025, Seoul, Republic of Korea, November 2025. <a href="https://dl.acm.org/doi/10.1145/3731569.3764835">https://dl.acm.org/doi/10.1145/3731569.3764835</a> <br>
   </li>
 
   <li>
   <b>Scalable and Accurate Application-level Crash-Consistency Testing via Representative Testing</b> <br>
   <b> Yile Gu<sup>*</sup></b>, Ian Neal<sup>*</sup>, Jiexiao Xu, Shaun Christopher Lee, Ayman Said, Musa Haydar, Jacob Van Geﬀen, Rohan Kadekodi, Andrew Quinn, Baris Kasikci. <br>
-  (To Appear) OOPSLA 2025, Singapore, October 2025. <a href="https://arxiv.org/abs/2503.01390">https://arxiv.org/abs/2503.01390</a> <br>
+  OOPSLA 2025, Singapore, October 2025. <a href="https://arxiv.org/abs/2503.01390">https://arxiv.org/abs/2503.01390</a> <br>
   </li>
 
   <li>
@@ -56,21 +76,21 @@ author_profile: true
   </li>
 
   <li>
-  <b>Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs</b> <br>
-  Kan Zhu<sup>*</sup>, Tian Tang<sup>*</sup>, Qinyu Xu<sup>*</sup>, <b> Yile Gu</b>, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, Baris Kasikci.  <br>
-  <a href="https://arxiv.org/abs/2502.12216">https://arxiv.org/abs/2502.12216</a> <br>
+  <b>The Streaming Batch Model for Efficient and Fault-Tolerant Heterogeneous Execution. </b> <br>
+  Frank Sifei Luan<sup>*</sup>, Ron Yifeng Wang<sup>*</sup>, <b> Yile Gu</b>, Ziming Mao, Charlotte Lin, Amog Kamsetty, Hao Chen, Cheng Su, Balaji Veeramani, Scott Lee, SangBin Cho, Clark Zinzow, Eric Liang, Ion Stoica, Stephanie Wang.  <br>
+  <a href="https://arxiv.org/abs/2501.12407">https://arxiv.org/abs/2501.12407</a> <br>
   </li>
 
   <li>
   <b>Semantic Scheduling for LLM Inference</b> <br>
-  Wenyue Hua<sup>*</sup>, Dujian Ding<sup>*</sup>, <b> Yile Gu </b>, Yujie Ren, Kai Mei, Minghua Ma, William Yang Wang.  <br>
+  Wenyue Hua<sup>*</sup>, Dujian Ding<sup>*</sup>, <b> Yile Gu</b>, Yujie Ren, Kai Mei, Minghua Ma, William Yang Wang.  <br>
   <a href="https://arxiv.org/abs/2506.12204">https://arxiv.org/abs/2506.12204</a> <br>
   </li>
 
   <li>
-  <b>TeleRAG: Eﬃcient Retrieval-Augmented Generation Inference with Lookahead Retrieval</b> <br>
-  Chien-Yu Lin<sup>*</sup>, Keisuke Kamahori<sup>*</sup>, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, <b>Yile Gu</b>, Rulin Shao, Zihao Ye, Kan Zhu, Stephanie Wang, Arvind Krishnamurthy, Rohan Kadekodi, Luis Ceze, Baris Kasikci.  <br>
-  <a href="https://arxiv.org/abs/2502.20969">https://arxiv.org/abs/2502.20969</a> <br>
+  <b>AgentFlux: Decoupled Fine-Tuning \& Inference for On-Device Agentic Systems.</b> <br>
+  Rohan Kadekodi<sup>*</sup>, Zhan Jin<sup>*</sup>, Keisuke Kamahori, <b> Yile Gu</b>, Sean Khatiri, Noah H Bayindirli, Sergey Gorbunov, Baris Kasikci.  <br>
+  <a href="https://arxiv.org/abs/2510.00229">https://arxiv.org/abs/2510.00229</a> <br>
   </li>
 
 
