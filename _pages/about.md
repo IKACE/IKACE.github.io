@@ -19,6 +19,8 @@ You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2026.5.pd
 * [05/2026] Ekka is accepted to ICML 2026!
 * [03/2026] [DynaFlow](https://mlsys.org/virtual/2026/poster/3548) and [TeleRAG](https://mlsys.org/virtual/2026/poster/3573) are accepted to MLSys 2026!
 * [02/2026] [Tactic](https://arxiv.org/pdf/2502.12216) is accepted to ICLR 2026!
+* [01/2026] Started as a Student Researcher at [Google Systems Research   
+  Group](https://techsysinfra.google/research/)!
 
 ## Education 
 Ph.D. in Computer Science and Engineering, <span style="color:grey">University of Washington, 2023-Present </span> \
