@@ -17,16 +17,16 @@ Fu, Jun Wu, Yida Wang, Baris Kasikci.  <br>
   </li>
 
   <li>
-  <b> SchedFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling. </b> <br>
+  <b> DynaFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling. </b> <br>
   Yi Pan, <b> Yile Gu</b>, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, Baris Kasikci, Stephanie Wang. <br>
-  MLSys 2026, Bellevue, WA, USA, May 2026. <br>
+  MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://mlsys.org/virtual/2026/poster/3548">https://mlsys.org/virtual/2026/poster/3548</a> <br>
   </li>
 
 
   <li>
-  <b>RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval.</b> <br>
+  <b>TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval.</b> <br>
   Chien-Yu Lin<sup>*</sup>, Keisuke Kamahori<sup>*</sup>, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, <b> Yile Gu</b>, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Rohan Kadekodi, Luis Ceze, Baris Kasikci.  <br>
-  MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://arxiv.org/abs/2502.20969">https://arxiv.org/abs/2502.20969</a> <br>
+  MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://mlsys.org/virtual/2026/poster/3573">https://mlsys.org/virtual/2026/poster/3573</a> <br>
   </li>
 
   <li>
