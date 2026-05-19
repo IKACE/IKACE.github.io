@@ -10,22 +10,29 @@ author_profile: true
 <ul>
 
   <li>
+  <b> Ekka: Automated Diagnosis of Silent Errors in LLM Inference. </b> <br>
+  <b> Yile Gu</b>, Zhen Zhang, Shaowei Zhu, Xinwei
+Fu, Jun Wu, Yida Wang, Baris Kasikci.  <br>
+  (To Appear) ICML 2026, Seoul, South Korea, July 2026. <br>
+  </li>
+
+  <li>
   <b> SchedFlow: Transparent and Flexible Intra-Device Parallelism via Programmable Operator Scheduling. </b> <br>
   Yi Pan, <b> Yile Gu</b>, Jinbin Luo, Yibo Wu, Ziren Wang, Hongtao Zhang, Ziyi Xu, Shengkai Lin, Baris Kasikci, Stephanie Wang. <br>
-  (To Appear) MLSys 2026, Bellevue, WA, USA, May 2026. <br>
+  MLSys 2026, Bellevue, WA, USA, May 2026. <br>
   </li>
 
 
   <li>
   <b>RagInfer: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval.</b> <br>
   Chien-Yu Lin<sup>*</sup>, Keisuke Kamahori<sup>*</sup>, Yiyu Liu, Xiaoxiang Shi, Madhav Kashyap, <b> Yile Gu</b>, Rulin Shao, Zihao Ye, Kan Zhu, Rohan Kadekodi, Stephanie Wang, Arvind Krishnamurthy, Rohan Kadekodi, Luis Ceze, Baris Kasikci.  <br>
-  (To Appear) MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://arxiv.org/abs/2502.20969">https://arxiv.org/abs/2502.20969</a> <br>
+  MLSys 2026, Bellevue, WA, USA, May 2026. <a href="https://arxiv.org/abs/2502.20969">https://arxiv.org/abs/2502.20969</a> <br>
   </li>
 
   <li>
   <b>Tactic: Adaptive Sparse Attention with Clustering and Distribution Fitting for Long-Context LLMs</b> <br>
   Kan Zhu<sup>*</sup>, Tian Tang<sup>*</sup>, Qinyu Xu<sup>*</sup>, <b> Yile Gu</b>, Zhichen Zeng, Rohan Kadekodi, Liangyu Zhao, Ang Li, Arvind Krishnamurthy, Baris Kasikci.  <br>
-  (To Appear) ICLR 2026,  Rio de Janeiro, Brazil, April 2026. <a href="https://arxiv.org/abs/2502.12216">https://arxiv.org/abs/2502.12216</a> <br>
+  ICLR 2026,  Rio de Janeiro, Brazil, April 2026. <a href="https://arxiv.org/abs/2502.12216">https://arxiv.org/abs/2502.12216</a> <br>
   </li>
 
   <li>
