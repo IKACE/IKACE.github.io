@@ -1,10 +1,10 @@
 name: Deploy al-folio site to Pages
 
 on:
-  # Runs on pushes targeting the al-folio branch
+  # Runs on pushes targeting the default branch
   push:
     branches:
-      - al-folio
+      - master
   # Allows manual runs from the Actions tab
   workflow_dispatch:
 
