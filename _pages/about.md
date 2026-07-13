@@ -1,30 +1,33 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: Ph.D. Student, <a href='https://www.cs.washington.edu/'>Paul G. Allen School of Computer Science &amp; Engineering</a>, University of Washington.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Seattle, WA</p>
+    <p>yilegu [at] cs.washington.edu</p>
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I am a Ph.D. student at the University of Washington, advised by [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/). 
+I am a third-year Ph.D. student at the University of Washington, advised by [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/).
 
 My research interests broadly lie in machine learning systems and systems reliability. I've worked on efficient LLM serving and energy-efficient distributed training for large models before. I've also built debugging tools that help improve the reliability of software systems on data persistency specifically. More recently, I have been working on how to integrate LLMs into the incident management lifecyle effectively for cloud systems.
 
-You can find my CV [here](https://ikace.github.io/files/Resume_Yile_Gu_2026.5.pdf).
-
-## News
-
-* [05/2026] Ekka is accepted to ICML 2026!
-* [03/2026] [DynaFlow](https://mlsys.org/virtual/2026/poster/3548) and [TeleRAG](https://mlsys.org/virtual/2026/poster/3573) are accepted to MLSys 2026!
-* [02/2026] [Tactic](https://arxiv.org/pdf/2502.12216) is accepted to ICLR 2026!
-* [01/2026] Started as a Student Researcher at [Google Systems Research Group](https://techsysinfra.google/research/)!
-
-## Education 
-Ph.D. in Computer Science and Engineering, <span style="color:grey">University of Washington, 2023-Present </span> \
-MSE in Computer Science and Engineering,  <span style="color:grey">University of Michigan, 2021-2023 </span> \
-BSE in Computer Science, <span style="color:grey">University of Michigan, 2019-2021</span> \
-BE in Electrical and Computer Engineering, <span style="color:grey">Shanghai Jiao Tong University, 2017-2021</span>
-
-<a href="https://clustrmaps.com/site/1brpe"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=1_9c8WzY31zgcTy8hYMNkxtZOoxUVn9ZbSMI1I9qDaI&cl=ffffff" /></a>
+You can find my CV [here](/assets/pdf/Resume_Yile_Gu_2026.5.pdf).
