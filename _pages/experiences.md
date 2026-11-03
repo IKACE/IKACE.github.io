@@ -17,7 +17,7 @@ nav_order: 4
         <strong>Google</strong>, Systems Research Group<br>
         <em>Student Researcher</em> &mdash; Seattle, WA
       </td>
-      <td class="align-middle text-nowrap text-end">Jan 2026 &ndash; Present</td>
+      <td class="align-middle text-nowrap text-end">Jan 2026 &ndash; Aug 2026</td>
     </tr>
     <tr>
       <td class="align-middle">
